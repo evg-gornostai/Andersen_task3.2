@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DownloadImage</string>
+
+    <string name="btn_download">Download image</string>
+    <string name="btn_clear">Clear</string>
+    <string name="ed_hint">Place the link here</string>
+    <string name="toast_msg">Error!</string>
+    <string name="standard_link">https://i.picsum.photos/id/10/2500/1667.jpg?hmac=J04WWC_ebchx3WwzbM-Z4_KC_LeLBWr5LZMaAkWkF68</string>
 </resources>
